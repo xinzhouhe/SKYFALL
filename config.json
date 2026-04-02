@@ -3,5 +3,6 @@
     "Altitude (km)": 550,
     "Inclination": 53,
     "# of orbit": 72,
-    "# of satellites": 22
+    "# of satellites": 22,
+    "topology_json": "../topology_test.json"
 }
